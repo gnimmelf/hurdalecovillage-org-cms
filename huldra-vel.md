@@ -1,6 +1,6 @@
 ---
 title: Huldra vel
-intro: Velet i grenda 
+intro: Huldra Vel står for festiviteter, beplantning og har prosjekt om felles-hus i grenda.
 weight: 100
 ---
-Litt om velet..
+
