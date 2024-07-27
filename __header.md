@@ -1,5 +1,5 @@
 ---
 title: Hurdal Økolandsby
-intro: Et sted med tid til ivet
+intro: Et sted med tid til livet
 ---
-Her kan du lese mer om livet i Hurdal Økolandsby.
+På denne siden kan du lese mer om livet i Hurdal Økolandsby.
