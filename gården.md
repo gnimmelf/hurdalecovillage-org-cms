@@ -9,7 +9,7 @@ Hurdal Gjestegård holder til i den gamle presteboligen, og eies og driftes av M
 
 - [Nettside](https://www.hurdalgjestegard.no/)
 
-Økologiske produkter fra gården kan handles hos Hansen Lokalmat
+Økologiske produkter fra gården kan handles hos Hansen Lokalmat.
 
 - [Facebook](https://www.facebook.com/hansen.lokalmat/)
 
