@@ -6,7 +6,7 @@ weight: 100
 
 # Festiviteter
 
-Har du noe du gjerne vil arragere eller gjøre på fellesområdene, ta kontakt med velet.
+Har du noe du gjerne vil arragere eller gjøre på fellesområdene, ta kontakt med velet p[ epost post@huldravel.no.
 
 # Felleshus
 
