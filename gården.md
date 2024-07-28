@@ -1,4 +1,5 @@
 ---
+published: 0
 title: Gården
 intro: Gjøding gård ligger mellom økolandsbyen og Hurdal kirke. På gården finnes økologisk landbruk og overnattings- og kurslokaler.
 weight: 400
