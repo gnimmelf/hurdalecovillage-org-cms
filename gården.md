@@ -1,7 +1,7 @@
 ---
 weight: 600
-title: Gården
-intro: På Gjøding gård finnes økologisk landbruk med grønnsaksproduksjon, dyrehold og gårdsbutikk.
+title: Gjøding gård
+intro: På gården finnes økologisk landbruk med grønnsaksproduksjon, dyrehold og gårdsbutikk.
 ---
 
 Gjøding gård produserer grønnsaker og kjøtt, til salgs i gårdsbutikken i låvens kjeller. 
