@@ -1,7 +1,7 @@
 ---
 weight: 600
 title: Gården
-intro: Gjøding gård ligger mellom Huldra Økogrend og Hurdal kirke. På gården finnes økologisk landbruk med grønnsaksproduksjon og dyrehold.
+intro: Gjøding gård ligger mellom Huldra Økogrend og Hurdal kirke. På gården finnes økologisk landbruk med grønnsaksproduksjon, dyrehold og gårdsbutikk
 ---
 
 Gjøding gård produserer grønnsaker og kjøtt, til salgs i gårdsbutikken i låvens kjeller. 
