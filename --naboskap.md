@@ -5,3 +5,5 @@ intro: Det finne mange forskjellige mennesker og meninger tett pÃ¥ hverandre i Ã
 ---
 
 Dette blir en lenger artikkel...
+
+![image](https://github.com/user-attachments/assets/ac39348b-35ef-4760-84c8-ea85f1c3366b)
