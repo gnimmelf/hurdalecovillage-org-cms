@@ -7,3 +7,5 @@ intro: Det finne mange forskjellige mennesker og meninger tett p√• hverandre i √
 Dette blir en lenger artikkel...
 
 ![image](https://github.com/user-attachments/assets/ac39348b-35ef-4760-84c8-ea85f1c3366b)
+
+![image](https://drive.google.com/thumbnail?id=1xgNsQomEhhwbIdqfo98F8X_6CKvs1gmD&sz=w1000)
