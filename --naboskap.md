@@ -8,8 +8,4 @@ Dette blir en lenger artikkel...
 
 ![image](https://github.com/user-attachments/assets/ac39348b-35ef-4760-84c8-ea85f1c3366b)
 
-
-
-![image](https://drive.google.com/thumbnail?id=1xgNsQomEhhwbIdqfo98F8X_6CKvs1gmD&sz=w1000)
-
 ![overton-grass-soil-en](https://github.com/user-attachments/assets/8ee87bfb-711d-44d3-a7ba-270eea04cfd5)
