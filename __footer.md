@@ -5,4 +5,4 @@ intro: Dette nettstedet er bygget på dugnad av engasjerte beboere. Ingen organi
 
 Woofers, click [here](https://wwoofnorway.org/en/hosts?searchTerm=hurdal)!
 
-For endringer, send e-post til gnimmelf@gmail.com
+For endringer, send e-post til gnimmelf@gmail.com (Other requets will *not* be answered)
