@@ -1,7 +1,7 @@
 ---
 weight: 200
-title: Anbefalinger for ekstern kommunikasjon i økolandsbyen
-intro: Fellesarealer og p-plasser i grenda er eiet og driftet gjennom realsameiet Huldra Økogrend Fellesareal, eller HØF.
+title: Profilering
+intro: Det finne mange forskjellige mennesker og meninger tett på hverandre i økolandsbyen.
 ---
 
 # Bakgrunn
