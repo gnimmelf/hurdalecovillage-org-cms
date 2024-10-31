@@ -1,5 +1,5 @@
 ---
-weight: 200
+weight: 300
 title: Profilering
 intro: Det finne mange forskjellige mennesker og meninger tett på hverandre i økolandsbyen.
 ---
