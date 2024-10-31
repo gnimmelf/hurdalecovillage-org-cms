@@ -22,10 +22,11 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 
 - Vær tydelig på at du snakker som privatperson
 - Presiser at økolandsbyen består av selvstendige huseiere med ulike syn
-- For spørsmål om veier og fellesområder, henvis til infrastrukturstyret
+- For spørsmål om veier og fellesområder, henvis til realsameiets styre
 
 **I sosiale medier**
 
+- Unngå å opprette profiler med generiske navn som lett kan tolkes til å representere hele fellesskapet, f eks "Hurdal økolandsby"
 - Unngå formuleringer som "Økolandsbyen mener/støtter/feirer..."
 - Skriv heller "Jeg som beboer..." eller "En gruppe beboere..."
 - Ved arrangementer, spesifiser tydelig hvem som står bak
@@ -72,3 +73,13 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 - Styret i realsameiet må orienteres
 - Bruken må ikke være til unødig ulempe for andre sameiere
 - Vær tydelig på hvem som er ansvarlig for arrangementet
+
+# Litt mer om nettsider og sosiale medier
+
+For nettsidedomener og sosiale medier er det vanskelig å finne gode, fengende navn når "Hurdal Økolandsby" i seg selv er langt og kronglete.
+
+Dersom man velger generiske navn, så bør man være ekstra påpasselig i enhver kommunikasjon å pressisere at dette ikke er representativt for heleheten.
+
+For nettsider er ikke dette noe problem, nettsidene er "roligere" enn sosiale medier, og man har mer tid og plass til tekst som kan pressiserer hvem som står bak og hva initiativet er.
+
+For sosiale medier blir generiske navn et stort problem, fordi en ved en "Like" kommer ikke annet frem enn navnet på profilen som klikket "like". 
