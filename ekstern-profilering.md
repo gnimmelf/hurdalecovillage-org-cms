@@ -12,7 +12,7 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 
 1. Vi er selvstendige huseiere som bor i samme område
 2. Det finnes ikke noe overordnet organ som representerer beboernes meninger
-3. Styret har kun ansvar for praktisk drift av veier og fellesområder
+3. Styret i realsameiet ("Sameiet") har kun ansvar for praktisk drift av veier og fellesområder
 4. Beboerne har varierte politiske syn, verdier og livssyn
 5. Sameiets vedtekter spesifiserer at "Bruken av eiendommen må ikke på en urimelig eller unødvendig måte være til skade eller ulempe for andre sameiere"
 
@@ -22,7 +22,7 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 
 - Vær tydelig på at du snakker som privatperson
 - Presiser at økolandsbyen består av selvstendige huseiere med ulike syn
-- For spørsmål om veier og fellesområder, henvis til realsameiets styre
+- For spørsmål om veier og fellesområder, henvis til Sameiets styre
 
 **I sosiale medier**
 
@@ -33,7 +33,7 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 
 **Ved arrangementer på fellesområder**
 
-- Orienter styret i realsameiet
+- Orienter styret i Sameiet
 - Vurder om arrangementet kan være til ulempe for andre sameiere
 - Beskriv eventuelle tiltak for å minimere ulemper
 
@@ -70,7 +70,7 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
   
 **Ved bruk av fellesområder til arrangementer:**
 
-- Styret i realsameiet må orienteres
+- Styret i Sameiet må orienteres
 - Bruken må ikke være til unødig ulempe for andre sameiere
 - Vær tydelig på hvem som er ansvarlig for arrangementet
 
