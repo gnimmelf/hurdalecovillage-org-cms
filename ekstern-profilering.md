@@ -12,9 +12,9 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 
 1. Vi er selvstendige huseiere som bor i samme område
 2. Det finnes ikke noe overordnet organ som representerer beboernes meninger
-3. Styret i realsameiet ("Sameiet") har kun ansvar for praktisk drift av veier og fellesområder
-4. Beboerne har varierte politiske syn, verdier og livssyn
-5. Sameiets vedtekter spesifiserer at "Bruken av eiendommen må ikke på en urimelig eller unødvendig måte være til skade eller ulempe for andre sameiere"
+3. Beboerne har varierte politiske syn, verdier og livssyn
+4. Styret i realsameiet ("Sameiet") har kun ansvar for praktisk drift av veier og fellesområder
+5. Sameiets vedtekter spesifiserer at "bruken av eiendommen må ikke på en urimelig eller unødvendig måte være til skade eller ulempe for andre sameiere"
 
 # Anbefalinger for kommunikasjon
 
