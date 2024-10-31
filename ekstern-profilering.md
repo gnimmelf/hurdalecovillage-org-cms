@@ -7,14 +7,14 @@ intro: Det finne mange forskjellige mennesker og meninger tett på hverandre i �
 # Bakgrunn
 
 Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere utad på en måte som respekterer alles autonomi og ulike synspunkter.
-Grunnleggende fakta
 
-# Vi er selvstendige huseiere som bor i samme område
+# Grunnleggende fakta
 
-- Det finnes ikke noe overordnet organ som representerer beboernes meninger
-- Styret har kun ansvar for praktisk drift av veier og fellesområder
-- Beboerne har varierte politiske syn, verdier og livssyn
-- Sameiets vedtekter spesifiserer at "Bruken av eiendommen må ikke på en urimelig eller unødvendig måte være til skade eller ulempe for andre sameiere"
+1. Vi er selvstendige huseiere som bor i samme område
+2. Det finnes ikke noe overordnet organ som representerer beboernes meninger
+3. Styret har kun ansvar for praktisk drift av veier og fellesområder
+4. Beboerne har varierte politiske syn, verdier og livssyn
+5. Sameiets vedtekter spesifiserer at "Bruken av eiendommen må ikke på en urimelig eller unødvendig måte være til skade eller ulempe for andre sameiere"
 
 # Anbefalinger for kommunikasjon
 
