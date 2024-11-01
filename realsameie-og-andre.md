@@ -18,7 +18,7 @@ Det er når beboerne kommer sammen med ideer og initiativ at Økolandsbyen virke
 Beboermedvirkning trenger ikke alltid være store fellesprosjekter. Noen av de fineste bidragene til fellesskapet kommer fra enkeltpersoner som tar initiativ til å forskjønne området rett utenfor sin egen eiendom. For eksempel:
 
 - Anlegge et blomsterbed ved siden av egen inngang eller port
-- Plante og stelle stauder langs gangveien
+- Plante eller stelle en bærbuske langs veien
 - Sette opp en benk eller blomsterkasse på et ledig hjørne
 
 Dette er initiativ som fungerer spesielt godt fordi:
