@@ -78,7 +78,7 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 
 For nettsidedomener og sosiale medier er det vanskelig å finne gode, fengende navn når "Hurdal Økolandsby" i seg selv er langt og kronglete.
 
-Dersom man velger generiske navn, så bør man være ekstra påpasselig i enhver kommunikasjon å pressisere at dette ikke er representativt for heleheten.
+Dersom man velger generiske navn, så bør man være ekstra påpasselig i enhver kommunikasjon å presisere at dette ikke er representativt for heleheten.
 
 For nettsider er ikke dette noe problem, nettsidene er "roligere" enn sosiale medier, og man har mer tid og plass til tekst som kan pressiserer hvem som står bak og hva initiativet er.
 
