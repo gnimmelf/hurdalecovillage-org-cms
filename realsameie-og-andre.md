@@ -64,7 +64,7 @@ For å sikre at alle trives og at nye prosjekter blir vellykket, følger vi noen
 
 3. **Årsmøtebehandling**: Når du har nabostøtte og en god plan, kan forslaget legges frem for årsmøtet i Realsameiet. Her kan alle sameierne få innsikt i prosjektet og evtentuelt stemme over dispensasjon.
 
-For mindre initiativer kan godt skjønn og litt gurilla-taktikk vurderes i stedet for åremøtebehandling, men på egen regning og risiko.
+For mindre initiativer kan godt skjønn og litt gurilla-taktikk vurderes i stedet for åremøtebehandling, men for egen regning og risiko.
 
 ## Samspill i praksis
 Det fine med denne ordningen er at den kombinerer det beste fra to verdener: Vi har Realsameiets stabile drift av fellesområdene som et trygt fundament, samtidig som vi har rom for at beboernes engasjement og kreativitet kan utfolde seg.
