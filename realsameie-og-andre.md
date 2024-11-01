@@ -1,7 +1,7 @@
 ---
 weight: 250
 title: Samspill
-intro: Les mer om ideen bak Realsameiet Huldra Økogrend Fellesareal her
+intro: Les mer om ideen bak Realsameiet Huldra Økogrend Fellesareal her.
 ---
 
 # Samspill mellom Realsameiet og beboerinitiativer i Økolandsbyen
