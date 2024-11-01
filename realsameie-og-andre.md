@@ -1,6 +1,6 @@
 ---
-weight: 100
-title: Samspill mellom Realsameiet og beboerinitiativer
+weight: 250
+title: Samspill
 intro: Les mer om ideen bak Realsameiet Huldra Økogrend Fellesareal her
 ---
 
