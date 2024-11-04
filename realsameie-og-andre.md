@@ -6,7 +6,7 @@ intro: Les mer om ideen bak Realsameiet Huldra Økogrend Fellesareal her.
 
 # Samspill mellom Realsameiet og beboerinitiativer i Økolandsbyen
 
-I vår Økolandsby har vi lagt opp til en spennende balanse mellom det formelle og det kreative. Realsameiet tar seg av de grunnleggende oppgavene som holder fellesområdene våre trygge og velstelte, mens beboerne står fritt til å utvikle egne initiativer som beriker fellesskapet.
+I vår Økolandsby er det lagt opp til en spennende balanse mellom det formelle og det kreative. Realsameiet tar seg av de grunnleggende oppgavene som holder fellesområdene våre trygge og velstelte, mens beboerne står fritt til å utvikle egne initiativer som beriker fellesskapet.
 
 ## Realsameiets rolle
 Realsameiet har en viktig, men avgrenset rolle i vårt fellesskap. De sørger for at de praktiske tingene fungerer som de skal - at veiene er brøytet om vinteren, at gresset klippes om sommeren, og at lekeapparatene er trygge for barna våre. Dette er oppgaver som må gjøres, og som skaper et solid fundament for alt det andre som skjer i Økolandsbyen.
