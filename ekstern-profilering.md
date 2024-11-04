@@ -37,6 +37,8 @@ Dette er anbefalinger for hvordan vi som selvstendige huseiere kan kommunisere u
 - Vurder om arrangementet kan være til ulempe for andre sameiere
 - Beskriv eventuelle tiltak for å minimere ulemper
 
+For hva som annsees som et arrangement, bruk skjønn. Er det planlagt og invitert til, så er det gjerne et arrangement. Legger det eksklusivt beslag på deler av fellesområdet, eller er det bare et lite kaffeslabras? Blir det mye støy, kan det virke støtende på noen? Norske lover og regler sier mye om dette, sjekk selv. 
+
 **Ved politiske markeringer**
 
 - Vær eksplisitt på hvem som står bak initiativet
